@@ -106,6 +106,8 @@ body {
 
 .header__menu_item:nth-child(3) {
   width: 35%;
+  text-decoration: none;
+  color: white;
 }
 
 @media only screen and (max-width: 1215px) {
@@ -136,7 +138,7 @@ body {
 
 .header__phone {
   text-align: right;
-  width: 7.55%;
+  width: 7.5%;
   margin: 0;
   padding: 0;
   height: 81px;
